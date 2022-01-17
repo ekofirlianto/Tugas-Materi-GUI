@@ -60,9 +60,9 @@ Conflict
 ● Untuk melakukan commit, conflict harus diselesaikan dulu
 
 Materi GUI Tools :
-Deskripsi
+Deskripsi :
 ● Software berbasis GUI untuk memudahkan dalam mengoperasikan git
-Manfaat :
+Manfaat 
 ● Mudah digunakan
 ● Solving conflict jadi lebih mudah
 ● Mempercepat kinerja
